@@ -94,7 +94,7 @@ $ppn = 0.1 * ($totalBelanja - $diskon);
 $hargaBersih = ($totalBelanja - $diskon) + $ppn;
 ?>
 
-<!-- Cetak di dalam php -->
+<!-- Cetak di dalam css -->
 <h1 align="center">Informasi Pelanggan </h1>
 <h2>Nama Pelanggan :<?= $nama ?> </h2>
 <h2>Produk Pilihan :<?= $produk ?> </h2>
