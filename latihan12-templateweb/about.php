@@ -7,7 +7,7 @@
     <title>About</title>
 
 <body>
-    <h1 align="center">Our Product</h1>
+    <h1 align="center">About</h1>
     <p align="center" class="text-justify">
         Cake shop adalah bentuk toko kue yang beroperasi secara digital melalui platform online,seperti website atau aplikasi mobile.
         Konsep cake shop online memberikan kemudahan bagi pelanggan untuk memesan dan membeli kue-kue favorit mereka tanpa harus datang ke toko fisik. .</p>
